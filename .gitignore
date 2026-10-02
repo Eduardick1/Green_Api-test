@@ -1,7 +1,7 @@
 node_modules/
 .vite/
 *.tsbuildinfo
-
+dist
 coverage/
 playwright-report/
 test-results/
@@ -18,5 +18,5 @@ test-results/
 Thumbs.db
 Desktop.ini
 AGENTS.md
-docs
+
 REACT_TZ.md
